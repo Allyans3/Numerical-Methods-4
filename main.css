@@ -24,10 +24,6 @@ ul, li {
 	position: relative;
 }
 
-#plot {
-    padding-top: 50px;
-}
-
 .modebar{
     display: none !important;
 }
@@ -48,14 +44,3 @@ input[type=text_val] {
   margin-right: 15px;
   margin-left: 15px;
 }
-/* input {
-  padding: 6px;
-} */
-/* body, html, input {
-  font-family: sans-serif;
-  font-size: 11pt;
-
-}
-form {
-  margin: 20px 0;
-} */
